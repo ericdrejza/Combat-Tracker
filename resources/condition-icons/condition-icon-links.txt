@@ -10,12 +10,9 @@ Invisible - https://game-icons.net/1x1/delapouite/invisible.html
 Paralyzed - https://game-icons.net/1x1/lorc/internal-injury.html
 Petrified - https://game-icons.net/1x1/delapouite/stone-bust.html
 Poisoned - https://game-icons.net/1x1/lorc/poison-bottle.html
-Prone - https://game-icons.net/1x1/lorc/despair.html
-      - https://game-icons.net/1x1/lorc/back-pain.html
-      - https://game-icons.net/1x1/sbed/falling.html
+Prone - https://game-icons.net/1x1/sbed/falling.html
 Restrained - https://game-icons.net/1x1/lorc/imprisoned.html
 Stunned - https://game-icons.net/1x1/skoll/knockout.html
-        - https://game-icons.net/1x1/lorc/surprised.html
 Unconscious - https://game-icons.net/1x1/lorc/sleepy.html
 Exhaustion - https://game-icons.net/1x1/lorc/oppression.html
 
@@ -30,8 +27,7 @@ Dodging - https://game-icons.net/1x1/lorc/dodging.html
 Enlarged/Reduced - https://game-icons.net/1x1/delapouite/body-height.html
 Hexed - https://game-icons.net/1x1/delapouite/warlock-eye.html
 Hiding - https://game-icons.net/1x1/lorc/ninja-mask.html
-Hunter's Marked - https://game-icons.net/1x1/delapouite/police-target.html
-                - https://game-icons.net/1x1/skoll/headshot.html
+Hunter's Marked - https://game-icons.net/1x1/lorc/target-arrows.html
 Inspiration - https://game-icons.net/1x1/lorc/music-spell.html
 Mirror Image - https://game-icons.net/1x1/lorc/two-shadows.html
 Raging - https://game-icons.net/1x1/delapouite/enrage.html
