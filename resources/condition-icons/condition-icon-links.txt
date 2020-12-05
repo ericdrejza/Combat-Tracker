@@ -1,0 +1,34 @@
+Basic Conditions:
+Blinded - https://game-icons.net/1x1/skoll/sight-disabled.html
+Charmed - https://game-icons.net/1x1/lorc/smitten.html
+Deafened - https://game-icons.net/1x1/skoll/hearing-disabled.html
+Dead - https://game-icons.net/1x1/sbed/death-skull.html
+Dying - https://game-icons.net/1x1/delapouite/half-dead.html
+Frightened - https://game-icons.net/1x1/lorc/terror.html
+Grappled - https://game-icons.net/1x1/lorc/grab.html
+Incapacitated - https://game-icons.net/1x1/lorc/coma.html
+Invisible - https://game-icons.net/1x1/delapouite/invisible.html
+Paralyzed - https://game-icons.net/1x1/lorc/internal-injury.html
+Petrified - https://game-icons.net/1x1/delapouite/stone-bust.html
+Poisoned - https://game-icons.net/1x1/lorc/poison-bottle.html
+Prone - https://game-icons.net/1x1/sbed/falling.html
+Restrained - https://game-icons.net/1x1/lorc/imprisoned.html
+Stunned - https://game-icons.net/1x1/skoll/knockout.html
+Unconscious - https://game-icons.net/1x1/lorc/sleepy.html
+Exhaustion - https://game-icons.net/1x1/lorc/oppression.html
+
+Advanced Conditions:
+Bane - https://game-icons.net/1x1/lorc/screaming.html
+Banished - https://game-icons.net/1x1/lorc/transportation-rings.html
+Blessed - https://game-icons.net/1x1/lorc/aura.html
+Blink - https://game-icons.net/1x1/lorc/relationship-bounds.html
+Concentrating - https://game-icons.net/1x1/lord-berandas/artificial-intelligence.html
+Cursed - https://game-icons.net/1x1/lorc/cursed-star.html
+Dodging - https://game-icons.net/1x1/lorc/dodging.html
+Enlarged/Reduced - https://game-icons.net/1x1/delapouite/body-height.html
+Hexed - https://game-icons.net/1x1/delapouite/warlock-eye.html
+Hiding - https://game-icons.net/1x1/lorc/ninja-mask.html
+Hunter's Marked - https://game-icons.net/1x1/lorc/target-arrows.html
+Inspiration - https://game-icons.net/1x1/lorc/music-spell.html
+Mirror Image - https://game-icons.net/1x1/lorc/two-shadows.html
+Raging - https://game-icons.net/1x1/delapouite/enrage.html
