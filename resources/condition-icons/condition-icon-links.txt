@@ -1,3 +1,4 @@
+Basic Conditions:
 Blinded - https://game-icons.net/1x1/skoll/sight-disabled.html
 Charmed - https://game-icons.net/1x1/lorc/smitten.html
 Deafened - https://game-icons.net/1x1/skoll/hearing-disabled.html
@@ -16,7 +17,7 @@ Stunned - https://game-icons.net/1x1/skoll/knockout.html
 Unconscious - https://game-icons.net/1x1/lorc/sleepy.html
 Exhaustion - https://game-icons.net/1x1/lorc/oppression.html
 
-Other Conditions:
+Advanced Conditions:
 Bane - https://game-icons.net/1x1/lorc/screaming.html
 Banished - https://game-icons.net/1x1/lorc/transportation-rings.html
 Blessed - https://game-icons.net/1x1/lorc/aura.html
