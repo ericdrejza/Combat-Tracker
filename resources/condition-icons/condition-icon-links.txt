@@ -5,7 +5,7 @@ Deafened - https://game-icons.net/1x1/skoll/hearing-disabled.html
 Dead - https://game-icons.net/1x1/sbed/death-skull.html
 Dying - https://game-icons.net/1x1/delapouite/half-dead.html
 Frightened - https://game-icons.net/1x1/lorc/terror.html
-Grappled - https://game-icons.net/1x1/lorc/grab.html
+Grappled - https://game-icons.net/1x1/delapouite/daemon-pull.html
 Incapacitated - https://game-icons.net/1x1/lorc/coma.html
 Invisible - https://game-icons.net/1x1/delapouite/invisible.html
 Paralyzed - https://game-icons.net/1x1/lorc/internal-injury.html
